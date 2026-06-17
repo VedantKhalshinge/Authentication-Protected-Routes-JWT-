@@ -30,3 +30,17 @@ Open your browser to `http://localhost:5173`. You can create an account, log in,
 
 ## Security Overview
 Please refer to `security_notes.md` for a detailed breakdown of the security best practices implemented in this application.
+
+---
+
+## ⚖️ Copyright & License
+
+**Copyright © 2026 Vedant Khalshinge. All Rights Reserved.**
+
+This software, including all source code, graphical assets, and documentation, is the exclusive intellectual property of **Vedant Khalshinge**. 
+
+- 🚫 **No Copying:** You may not copy, clone, or duplicate this repository.
+- 🚫 **No Modification:** You may not modify, adapt, or create derivative works.
+- 🚫 **No Distribution:** You may not distribute, host, or publish this code elsewhere.
+
+This project is strictly for display purposes within my personal portfolio. Any unauthorized use will be subject to action.

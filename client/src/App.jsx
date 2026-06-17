@@ -1,3 +1,11 @@
+/*
+ * =============================================================
+ * VEDANT KHALSHINGE — AUTHENTICATION APP
+ * Copyright (c) 2026 Vedant Khalshinge. All Rights Reserved.
+ * Unauthorized copying or distribution is strictly prohibited.
+ * =============================================================
+ */
+
 import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 import { AuthProvider, AuthContext } from './context/AuthContext';
 import { Navbar } from './components/Navbar';

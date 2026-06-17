@@ -1,13 +1,34 @@
 <!doctype html>
+<!--
+  =============================================================
+  VEDANT KHALSHINGE — AUTHENTICATION APP
+  Copyright (c) 2026 Vedant Khalshinge. All Rights Reserved.
+  
+  This codebase, design, content, and all associated assets 
+  are the exclusive property of Vedant Khalshinge.
+  
+  Unauthorized copying, cloning, modification, reproduction, 
+  or distribution of this project is strictly prohibited.
+  =============================================================
+-->
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>client</title>
+    <meta name="author" content="Vedant Khalshinge" />
+    <meta name="copyright" content="Vedant Khalshinge" />
+    <title>Authentication System by Vedant Khalshinge</title>
   </head>
-  <body>
+  <body oncontextmenu="return false;" style="-webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none;">
     <div id="root"></div>
     <script type="module" src="/src/main.jsx"></script>
+    <script>
+      document.addEventListener('keydown', function(e) {
+        if(e.ctrlKey && (e.key === 'c' || e.key === 'u' || e.key === 'i' || e.key === 's')) {
+          e.preventDefault();
+        }
+      });
+    </script>
   </body>
 </html>

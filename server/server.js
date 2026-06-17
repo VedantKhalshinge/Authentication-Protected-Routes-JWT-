@@ -1,3 +1,11 @@
+/*
+ * =============================================================
+ * VEDANT KHALSHINGE — AUTHENTICATION APP
+ * Copyright (c) 2026 Vedant Khalshinge. All Rights Reserved.
+ * Unauthorized copying or distribution is strictly prohibited.
+ * =============================================================
+ */
+
 const express = require('express');
 const cors = require('cors');
 const cookieParser = require('cookie-parser');
